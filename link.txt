@@ -1,5 +1,4 @@
 ! Title: uBlock filters
-! Expires: 5 days
 ! Last modified: Sun, 15 Feb 2026 18:53:52 +0000
 ! Diff-Path: ../patches/2026.2.15.1175.patch#ublock-filters
 ! Diff-Expires: 317 minutes
